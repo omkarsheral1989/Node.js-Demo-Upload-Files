@@ -1,3 +1,4 @@
+//> node main.js
 //open http://localhost:8877/index.html
 //open http://127.0.0.1:8877/image.png
 
